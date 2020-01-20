@@ -1,0 +1,384 @@
+mother, mom;<div>母<br><br>onyomi: ぼ<br><br>kunyomi: はは
+axe, bread loaf counter;<div>斤<br><br>onyomi: きん<br><br>kunyomi:
+treasure;<div>宝<br><br>onyomi: ほう<br><br>kunyomi: たから
+preserve, guarantee;<div>保<br><br>onyomi: ほ<br><br>kunyomi: たも
+i, private;<div>私<br><br>onyomi: し<br><br>kunyomi: わたし
+request;<div>求<br><br>onyomi: きゅう<br><br>kunyomi: もと
+return;<div>返<br><br>onyomi: へん<br><br>kunyomi: かえ
+new;<div>新<br><br>onyomi: しん<br><br>kunyomi: あたら, あら, にい
+repeater, repetition, reduplication, iteration mark;<div>々<br><br>onyomi: <br><br>kunyomi: のま
+anti;<div>反<br><br>onyomi: はん<br><br>kunyomi:
+beforehand;<div>予<br><br>onyomi: よ<br><br>kunyomi: あらかじ
+wind, style;<div>風<br><br>onyomi: ふう, ふ<br><br>kunyomi: かぜ
+death, deceased;<div>亡<br><br>onyomi: ぼう<br><br>kunyomi: な
+life;<div>生<br><br>onyomi: せい, しょう<br><br>kunyomi: い, なま, う, は, き
+flavor, taste;<div>味<br><br>onyomi: み<br><br>kunyomi: あじ
+idea;<div>意<br><br>onyomi: い<br><br>kunyomi:
+orders;<div>令<br><br>onyomi: れい<br><br>kunyomi:
+work, labor;<div>働<br><br>onyomi: どう<br><br>kunyomi: はたら
+convenience, convenient;<div>便<br><br>onyomi: べん, びん<br><br>kunyomi: たよ
+special;<div>特<br><br>onyomi: とく<br><br>kunyomi:
+achievement, accomplishment;<div>功<br><br>onyomi: こう<br><br>kunyomi:
+good;<div>良<br><br>onyomi: りょう<br><br>kunyomi: よ, い
+compete;<div>競<br><br>onyomi: きょう<br><br>kunyomi: きそ
+war, battle;<div>戦<br><br>onyomi: せん<br><br>kunyomi: たたか
+follow, chase;<div>追<br><br>onyomi: つい<br><br>kunyomi: お
+level, grade, rank;<div>級<br><br>onyomi: きゅう<br><br>kunyomi:
+second;<div>秒<br><br>onyomi: びょう<br><br>kunyomi:
+god;<div>神<br><br>onyomi: しん<br><br>kunyomi: かみ
+western style, ocean;<div>洋<br><br>onyomi: よう<br><br>kunyomi:
+finger;<div>指<br><br>onyomi: し<br><br>kunyomi: ゆび, さ
+pick up;<div>拾<br><br>onyomi: <br><br>kunyomi: ひろ
+nurture, raise;<div>育<br><br>onyomi: いく<br><br>kunyomi: そだ, はぐく
+pour;<div>注<br><br>onyomi: ちゅう<br><br>kunyomi: そそ, さ, つ
+wave;<div>波<br><br>onyomi: は<br><br>kunyomi: なみ
+long ago, long time ago;<div>昔<br><br>onyomi: <br><br>kunyomi: むかし
+release;<div>放<br><br>onyomi: ほう<br><br>kunyomi: はな, ほう
+coast, shore;<div>岸<br><br>onyomi: がん<br><br>kunyomi: きし
+fate;<div>命<br><br>onyomi: めい, みょう<br><br>kunyomi: いのち
+labor;<div>労<br><br>onyomi: ろう<br><br>kunyomi: いたわ
+toil;<div>努<br><br>onyomi: ど<br><br>kunyomi: つと
+profit, benefit, advantage;<div>利<br><br>onyomi: り<br><br>kunyomi: き
+separate;<div>別<br><br>onyomi: べつ<br><br>kunyomi: わか
+first;<div>初<br><br>onyomi: しょ<br><br>kunyomi: はじ, はつ, そ, ぞ
+low;<div>低<br><br>onyomi: てい<br><br>kunyomi: ひく
+rank;<div>位<br><br>onyomi: い<br><br>kunyomi: くらい
+elderly;<div>老<br><br>onyomi: ろう<br><br>kunyomi:
+become;<div>成<br><br>onyomi: せい<br><br>kunyomi: な
+calculate, calculation;<div>算<br><br>onyomi: さん<br><br>kunyomi: そろ
+song, sing;<div>歌<br><br>onyomi: か<br><br>kunyomi: うた
+iron;<div>鉄<br><br>onyomi: てつ<br><br>kunyomi:
+farming, agriculture;<div>農<br><br>onyomi: のう<br><br>kunyomi:
+road;<div>路<br><br>onyomi: ろ<br><br>kunyomi: じ, みち
+chinese, china;<div>漢<br><br>onyomi: かん<br><br>kunyomi:
+business;<div>業<br><br>onyomi: ぎょう<br><br>kunyomi:
+drink;<div>飲<br><br>onyomi: いん<br><br>kunyomi: の
+collect, gather;<div>集<br><br>onyomi: しゅう<br><br>kunyomi: あつ
+open;<div>開<br><br>onyomi: かい<br><br>kunyomi: あ, ひら
+carry, luck;<div>運<br><br>onyomi: うん<br><br>kunyomi: はこ
+lightweight, light, light weight;<div>軽<br><br>onyomi: けい<br><br>kunyomi: かる, かろ
+leaf, leaves;<div>葉<br><br>onyomi: よう<br><br>kunyomi: は, ば
+fall;<div>落<br><br>onyomi: らく<br><br>kunyomi: お
+advance;<div>進<br><br>onyomi: しん<br><br>kunyomi: すす
+revolve;<div>転<br><br>onyomi: てん<br><br>kunyomi: ころ
+learn;<div>習<br><br>onyomi: しゅう<br><br>kunyomi: なら
+end, finish;<div>終<br><br>onyomi: しゅう<br><br>kunyomi: おわ, お
+institution;<div>院<br><br>onyomi: いん<br><br>kunyomi:
+alcohol;<div>酒<br><br>onyomi: しゅ<br><br>kunyomi: さけ, さか
+distribute;<div>配<br><br>onyomi: はい<br><br>kunyomi: くば
+fast;<div>速<br><br>onyomi: そく<br><br>kunyomi: はや
+wake up;<div>起<br><br>onyomi: き<br><br>kunyomi: お
+temporary;<div>仮<br><br>onyomi: か<br><br>kunyomi: かり
+win;<div>勝<br><br>onyomi: しょう<br><br>kunyomi: か
+need;<div>要<br><br>onyomi: よう<br><br>kunyomi: い, かなめ
+discuss;<div>談<br><br>onyomi: だん<br><br>kunyomi:
+heavy;<div>重<br><br>onyomi: じゅう, ちょう<br><br>kunyomi: おも, かさ, え
+send;<div>送<br><br>onyomi: そう<br><br>kunyomi: おく
+lose;<div>負<br><br>onyomi: ふ<br><br>kunyomi: ま, お
+beauty, beautiful;<div>美<br><br>onyomi: び, み<br><br>kunyomi: うつく
+prefecture;<div>県<br><br>onyomi: けん<br><br>kunyomi:
+mutual;<div>相<br><br>onyomi: そう, しょう<br><br>kunyomi: あい
+departure;<div>発<br><br>onyomi: はつ<br><br>kunyomi:
+world;<div>界<br><br>onyomi: かい<br><br>kunyomi:
+hold;<div>持<br><br>onyomi: じ<br><br>kunyomi: も
+degrees, occurrence;<div>度<br><br>onyomi: ど, たく<br><br>kunyomi: たび
+roof, shop, store;<div>屋<br><br>onyomi: おく<br><br>kunyomi: や
+guest, customer;<div>客<br><br>onyomi: きゃく<br><br>kunyomi:
+ride;<div>乗<br><br>onyomi: じょう<br><br>kunyomi: の
+part, department, club;<div>部<br><br>onyomi: ぶ<br><br>kunyomi: へ
+express;<div>表<br><br>onyomi: ひょう<br><br>kunyomi: あらわ, おもて
+suffering;<div>苦<br><br>onyomi: く<br><br>kunyomi: くる, にが
+thing;<div>物<br><br>onyomi: ぶつ, もつ<br><br>kunyomi: もの
+swim;<div>泳<br><br>onyomi: えい<br><br>kunyomi: およ
+clothes, clothing;<div>服<br><br>onyomi: ふく<br><br>kunyomi:
+truth, reality;<div>実<br><br>onyomi: じつ<br><br>kunyomi: み
+determine;<div>定<br><br>onyomi: てい, じょう<br><br>kunyomi: さだ
+begin, start;<div>始<br><br>onyomi: し<br><br>kunyomi: はじ
+peace, japanese style;<div>和<br><br>onyomi: わ, お<br><br>kunyomi: なご, やわ
+accept, receive;<div>受<br><br>onyomi: じゅ<br><br>kunyomi: う
+tool;<div>具<br><br>onyomi: ぐ<br><br>kunyomi:
+use;<div>使<br><br>onyomi: し<br><br>kunyomi: つか
+action, matter, thing;<div>事<br><br>onyomi: じ<br><br>kunyomi: こと, つか
+place;<div>所<br><br>onyomi: しょ<br><br>kunyomi: ところ
+electricity;<div>電<br><br>onyomi: でん<br><br>kunyomi:
+talk, speak;<div>話<br><br>onyomi: わ<br><br>kunyomi: はな, はなし
+comfort, ease, pleasure;<div>楽<br><br>onyomi: らく, がく<br><br>kunyomi: たの
+count, number, amount;<div>数<br><br>onyomi: すう<br><br>kunyomi: かぞ, かず
+cloud;<div>雲<br><br>onyomi: うん<br><br>kunyomi: くも
+interval, interval of time, interval of space;<div>間<br><br>onyomi: かん, けん<br><br>kunyomi: あいだ, ま
+road, street, path, way;<div>道<br><br>onyomi: どう<br><br>kunyomi: みち
+buy;<div>買<br><br>onyomi: ばい<br><br>kunyomi: か
+drawing, painting;<div>絵<br><br>onyomi: え<br><br>kunyomi:
+answer, response, reply;<div>答<br><br>onyomi: とう<br><br>kunyomi: こた
+number in a series, turn, ordinal number;<div>番<br><br>onyomi: ばん<br><br>kunyomi:
+morning;<div>朝<br><br>onyomi: ちょう<br><br>kunyomi: あさ
+location, place;<div>場<br><br>onyomi: じょう<br><br>kunyomi: ば
+forest, woods;<div>林<br><br>onyomi: りん<br><br>kunyomi: はやし
+horse;<div>馬<br><br>onyomi: ば<br><br>kunyomi: うま
+sharpen;<div>研<br><br>onyomi: けん<br><br>kunyomi: と
+someone, somebody;<div>者<br><br>onyomi: しゃ<br><br>kunyomi: もの
+somebody, someone, body;<div>身<br><br>onyomi: しん<br><br>kunyomi: み
+research;<div>究<br><br>onyomi: きゅう<br><br>kunyomi: きわ
+decide, decision;<div>決<br><br>onyomi: けつ<br><br>kunyomi: き
+throw;<div>投<br><br>onyomi: とう<br><br>kunyomi: な
+service, duty;<div>役<br><br>onyomi: やく<br><br>kunyomi:
+bureau, department;<div>局<br><br>onyomi: きょく<br><br>kunyomi:
+versus, opposite;<div>対<br><br>onyomi: たい<br><br>kunyomi:
+buddy;<div>君<br><br>onyomi: くん<br><br>kunyomi: きみ
+medicine;<div>医<br><br>onyomi: い<br><br>kunyomi:
+help;<div>助<br><br>onyomi: じょ<br><br>kunyomi: たす, すけ
+dwelling, reside, dwell;<div>住<br><br>onyomi: じゅう<br><br>kunyomi: す
+support, branch;<div>支<br><br>onyomi: し<br><br>kunyomi: ささ
+black;<div>黒<br><br>onyomi: こく<br><br>kunyomi: くろ
+yellow;<div>黄<br><br>onyomi: おう<br><br>kunyomi: き
+bird;<div>鳥<br><br>onyomi: ちょう<br><br>kunyomi: とり
+fish;<div>魚<br><br>onyomi: ぎょ<br><br>kunyomi: さかな
+snow;<div>雪<br><br>onyomi: せつ<br><br>kunyomi: ゆき
+week;<div>週<br><br>onyomi: しゅう<br><br>kunyomi:
+boat, ship;<div>船<br><br>onyomi: せん<br><br>kunyomi: ふね
+group, association, team;<div>組<br><br>onyomi: そ<br><br>kunyomi: くみ
+reason;<div>由<br><br>onyomi: ゆう<br><br>kunyomi: よし, よ
+teach;<div>教<br><br>onyomi: きょう<br><br>kunyomi: おし, おそ
+strong, strength;<div>強<br><br>onyomi: きょう<br><br>kunyomi: つよ
+tall, expensive, high;<div>高<br><br>onyomi: こう<br><br>kunyomi: たか
+pass through;<div>通<br><br>onyomi: つう<br><br>kunyomi: とお, かよ
+write down, record;<div>記<br><br>onyomi: き<br><br>kunyomi: しる
+paper;<div>紙<br><br>onyomi: し<br><br>kunyomi: かみ
+time, o'clock, hour;<div>時<br><br>onyomi: じ<br><br>kunyomi: とき
+weak;<div>弱<br><br>onyomi: じゃく<br><br>kunyomi: よわ
+house, home;<div>家<br><br>onyomi: か, け<br><br>kunyomi: いえ, や, うち
+summer;<div>夏<br><br>onyomi: げ, か, が<br><br>kunyomi: なつ
+school;<div>校<br><br>onyomi: こう<br><br>kunyomi:
+end;<div>末<br><br>onyomi: まつ<br><br>kunyomi: すえ
+not yet;<div>未<br><br>onyomi: み<br><br>kunyomi: ま, いま, ひつじ
+certain;<div>必<br><br>onyomi: ひつ<br><br>kunyomi: かなら
+fault;<div>失<br><br>onyomi: しつ<br><br>kunyomi: うしな
+from, since, compared with, with, by means of;<div>以<br><br>onyomi: い<br><br>kunyomi:
+attach;<div>付<br><br>onyomi: ふ<br><br>kunyomi: つ
+area;<div>辺<br><br>onyomi: へん<br><br>kunyomi: あた, べ
+peoples, people, nation;<div>民<br><br>onyomi: みん<br><br>kunyomi: たみ
+bill, tag, label, note;<div>札<br><br>onyomi: さつ<br><br>kunyomi: ふだ
+family name, last name, surname;<div>氏<br><br>onyomi: し<br><br>kunyomi: うじ
+lack;<div>欠<br><br>onyomi: けつ<br><br>kunyomi: か
+neck;<div>首<br><br>onyomi: しゅ<br><br>kunyomi: くび
+eat, meal;<div>食<br><br>onyomi: しょく<br><br>kunyomi: た, く
+tea;<div>茶<br><br>onyomi: ちゃ, さ<br><br>kunyomi:
+course, science, department;<div>科<br><br>onyomi: か<br><br>kunyomi:
+point, decimal, decimal point;<div>点<br><br>onyomi: てん<br><br>kunyomi: つ
+sea, ocean;<div>海<br><br>onyomi: かい<br><br>kunyomi: うみ
+lively;<div>活<br><br>onyomi: かつ<br><br>kunyomi: い
+star;<div>星<br><br>onyomi: せい<br><br>kunyomi: ほし
+think, thought;<div>思<br><br>onyomi: し<br><br>kunyomi: おも
+behind, after, back, rear;<div>後<br><br>onyomi: ご, こう<br><br>kunyomi: うし, あと, のち
+room;<div>室<br><br>onyomi: しつ<br><br>kunyomi:
+south;<div>南<br><br>onyomi: なん<br><br>kunyomi: みなみ
+front, before;<div>前<br><br>onyomi: ぜん<br><br>kunyomi: まえ
+long, leader;<div>長<br><br>onyomi: ちょう<br><br>kunyomi: なが
+know;<div>知<br><br>onyomi: ち<br><br>kunyomi: し
+fix, direct;<div>直<br><br>onyomi: ちょく, じき<br><br>kunyomi: なお
+drawing, picture, painting;<div>画<br><br>onyomi: が, かく<br><br>kunyomi:
+walk;<div>歩<br><br>onyomi: ほ<br><br>kunyomi: ある, あゆ
+east;<div>東<br><br>onyomi: とう<br><br>kunyomi: ひがし
+bright;<div>明<br><br>onyomi: めい<br><br>kunyomi: あ, あか, あき
+shop, store;<div>店<br><br>onyomi: てん<br><br>kunyomi: みせ
+older sister, big sister, elder sister;<div>姉<br><br>onyomi: し<br><br>kunyomi: お, あね, ねえ
+younger sister, little sister;<div>妹<br><br>onyomi: まい<br><br>kunyomi: いもうと
+night, evening;<div>夜<br><br>onyomi: や<br><br>kunyomi: よ, よる
+country;<div>国<br><br>onyomi: こく<br><br>kunyomi: くに
+capital;<div>京<br><br>onyomi: きょう<br><br>kunyomi: みやこ
+blood;<div>血<br><br>onyomi: けつ<br><br>kunyomi: ち
+sheep;<div>羊<br><br>onyomi: よう<br><br>kunyomi: ひつじ
+death;<div>死<br><br>onyomi: し<br><br>kunyomi: し
+next;<div>次<br><br>onyomi: じ<br><br>kunyomi: つぎ
+have;<div>有<br><br>onyomi: ゆう, う<br><br>kunyomi: あ
+music, bend;<div>曲<br><br>onyomi: きょく<br><br>kunyomi: ま
+state, province, county;<div>州<br><br>onyomi: しゅう<br><br>kunyomi:
+relax, cheap;<div>安<br><br>onyomi: あん<br><br>kunyomi: やす
+yonder, facing;<div>向<br><br>onyomi: こう<br><br>kunyomi: む
+all, whole;<div>全<br><br>onyomi: ぜん<br><br>kunyomi: すべ, まった
+both;<div>両<br><br>onyomi: りょう<br><br>kunyomi:
+earth, ground;<div>地<br><br>onyomi: ち, じ<br><br>kunyomi:
+change;<div>化<br><br>onyomi: か<br><br>kunyomi: ば
+sound;<div>音<br><br>onyomi: おん<br><br>kunyomi: おと, ね
+grass, weed;<div>草<br><br>onyomi: そう<br><br>kunyomi: くさ
+blue;<div>青<br><br>onyomi: せい, しょう<br><br>kunyomi: あお
+rain;<div>雨<br><br>onyomi: う<br><br>kunyomi: あめ, あま
+gold;<div>金<br><br>onyomi: きん<br><br>kunyomi: かね
+sky;<div>空<br><br>onyomi: くう<br><br>kunyomi: そら, あ, から, す
+study, learn, learning;<div>学<br><br>onyomi: がく<br><br>kunyomi: まな
+wheat;<div>麦<br><br>onyomi: ばく<br><br>kunyomi: むぎ
+home village, village;<div>里<br><br>onyomi: り<br><br>kunyomi: さと
+near, close;<div>近<br><br>onyomi: きん, こん<br><br>kunyomi: ちか
+run;<div>走<br><br>onyomi: そう<br><br>kunyomi: はし
+valley;<div>谷<br><br>onyomi: こく<br><br>kunyomi: たに
+say;<div>言<br><br>onyomi: げん, ごん<br><br>kunyomi: い, こと
+angle, corner;<div>角<br><br>onyomi: かく<br><br>kunyomi: かど, つの
+company;<div>社<br><br>onyomi: しゃ<br><br>kunyomi: やしろ
+come, next;<div>来<br><br>onyomi: らい<br><br>kunyomi: く
+shape, form, appearance;<div>形<br><br>onyomi: けい, ぎょう<br><br>kunyomi: かた, かたち
+younger brother, little brother;<div>弟<br><br>onyomi: だい, で, てい<br><br>kunyomi: おとうと
+sell;<div>売<br><br>onyomi: ばい<br><br>kunyomi: う
+voice;<div>声<br><br>onyomi: せい<br><br>kunyomi: こえ
+diagram;<div>図<br><br>onyomi: ず, と<br><br>kunyomi: え, はか
+make;<div>作<br><br>onyomi: さく, さ<br><br>kunyomi: つく
+body;<div>体<br><br>onyomi: たい<br><br>kunyomi: からだ
+what;<div>何<br><br>onyomi: か<br><br>kunyomi: なに, なん
+west;<div>西<br><br>onyomi: せい, さい<br><br>kunyomi: にし
+go;<div>行<br><br>onyomi: こう, ぎょう<br><br>kunyomi: い, おこな, ゆ
+color;<div>色<br><br>onyomi: しき, しょく<br><br>kunyomi: いろ
+self;<div>自<br><br>onyomi: じ, し<br><br>kunyomi:
+meat;<div>肉<br><br>onyomi: にく<br><br>kunyomi:
+think, consider;<div>考<br><br>onyomi: こう<br><br>kunyomi: かんが
+feather, feathers, wing, wings;<div>羽<br><br>onyomi: う<br><br>kunyomi: はね, は, わ
+rice, america;<div>米<br><br>onyomi: べい, まい<br><br>kunyomi: こめ
+pond;<div>池<br><br>onyomi: ち<br><br>kunyomi: いけ
+test;<div>験<br><br>onyomi: けん<br><br>kunyomi: ため, ためし
+try, attempt;<div>試<br><br>onyomi: し<br><br>kunyomi: こころ, ため
+every;<div>毎<br><br>onyomi: まい<br><br>kunyomi: ごと
+correct, right, success;<div>当<br><br>onyomi: とう<br><br>kunyomi: あ
+many, much, lots of;<div>多<br><br>onyomi: た<br><br>kunyomi: おお
+times, revolve;<div>回<br><br>onyomi: かい<br><br>kunyomi: まわ
+same;<div>同<br><br>onyomi: どう<br><br>kunyomi: おな
+sunlight, light;<div>光<br><br>onyomi: こう<br><br>kunyomi: ひかり, ひか
+meet;<div>会<br><br>onyomi: かい<br><br>kunyomi: あ
+mix, mingle;<div>交<br><br>onyomi: こう<br><br>kunyomi: まじ, ま, か
+doing, do;<div>仕<br><br>onyomi: し<br><br>kunyomi: つか
+not;<div>不<br><br>onyomi: ふ<br><br>kunyomi:
+car;<div>車<br><br>onyomi: しゃ<br><br>kunyomi: くるま
+foot, leg, sufficient;<div>足<br><br>onyomi: そく<br><br>kunyomi: あし, た
+red;<div>赤<br><br>onyomi: せき<br><br>kunyomi: あか
+shellfish, shell;<div>貝<br><br>onyomi: <br><br>kunyomi: かい
+see;<div>見<br><br>onyomi: けん<br><br>kunyomi: み
+flower;<div>花<br><br>onyomi: か, け<br><br>kunyomi: はな
+town;<div>町<br><br>onyomi: ちょう<br><br>kunyomi: まち
+man;<div>男<br><br>onyomi: だん, なん<br><br>kunyomi: おとこ
+village;<div>村<br><br>onyomi: そん<br><br>kunyomi: むら
+insect, bug;<div>虫<br><br>onyomi: ちゅう, き<br><br>kunyomi: むし
+ear, ears;<div>耳<br><br>onyomi: じ<br><br>kunyomi: みみ
+thread;<div>糸<br><br>onyomi: し<br><br>kunyomi: いと
+bamboo;<div>竹<br><br>onyomi: <br><br>kunyomi: たけ
+hundred;<div>百<br><br>onyomi: ひゃく<br><br>kunyomi: もも
+energy, spirit;<div>気<br><br>onyomi: き, け<br><br>kunyomi: いき
+early, fast, quick;<div>早<br><br>onyomi: そう<br><br>kunyomi: はや, さ
+task, use;<div>用<br><br>onyomi: よう<br><br>kunyomi: もち
+wide;<div>広<br><br>onyomi: こう<br><br>kunyomi: ひろ
+city;<div>市<br><br>onyomi: し<br><br>kunyomi: いち
+outside;<div>外<br><br>onyomi: がい<br><br>kunyomi: そと, はず
+machine;<div>台<br><br>onyomi: だい, たい<br><br>kunyomi:
+old;<div>古<br><br>onyomi: こ<br><br>kunyomi: ふる
+half;<div>半<br><br>onyomi: はん<br><br>kunyomi: なか
+north;<div>北<br><br>onyomi: ほく<br><br>kunyomi: きた
+winter;<div>冬<br><br>onyomi: とう<br><br>kunyomi: ふゆ
+older brother, big brother, elder brother;<div>兄<br><br>onyomi: きょう<br><br>kunyomi: あに
+stop;<div>止<br><br>onyomi: し<br><br>kunyomi: と, や
+fur, hair;<div>毛<br><br>onyomi: もう<br><br>kunyomi: け
+father, dad;<div>父<br><br>onyomi: ふ<br><br>kunyomi: ちち
+cow;<div>牛<br><br>onyomi: ぎゅう<br><br>kunyomi: うし
+direction, way;<div>方<br><br>onyomi: ほう<br><br>kunyomi: かた
+door;<div>戸<br><br>onyomi: こ<br><br>kunyomi: と
+heart;<div>心<br><br>onyomi: しん<br><br>kunyomi: こころ
+pull;<div>引<br><br>onyomi: いん<br><br>kunyomi: ひ
+few, a little;<div>少<br><br>onyomi: しょう<br><br>kunyomi: すこ
+fat;<div>太<br><br>onyomi: たい, た<br><br>kunyomi: ふと
+friend;<div>友<br><br>onyomi: ゆう<br><br>kunyomi: とも
+noon;<div>午<br><br>onyomi: ご<br><br>kunyomi:
+cut;<div>切<br><br>onyomi: せつ<br><br>kunyomi: き
+part, minute, separate, understand;<div>分<br><br>onyomi: ぶん, ふん, ぶ<br><br>kunyomi: わ
+inside, within;<div>内<br><br>onyomi: ない<br><br>kunyomi: うち
+public;<div>公<br><br>onyomi: こう<br><br>kunyomi:
+origin;<div>元<br><br>onyomi: げん, がん<br><br>kunyomi: もと
+now;<div>今<br><br>onyomi: こん<br><br>kunyomi: いま
+ten thousand;<div>万<br><br>onyomi: まん, ばん<br><br>kunyomi:
+stand;<div>立<br><br>onyomi: りつ, りゅう<br><br>kunyomi: た
+stone;<div>石<br><br>onyomi: せき<br><br>kunyomi: いし
+eye;<div>目<br><br>onyomi: もく<br><br>kunyomi: め
+white;<div>白<br><br>onyomi: はく<br><br>kunyomi: しろ, しら
+rice paddy, rice field, field;<div>田<br><br>onyomi: でん<br><br>kunyomi: た
+ball;<div>玉<br><br>onyomi: ぎょく<br><br>kunyomi: たま
+correct;<div>正<br><br>onyomi: せい, しょう<br><br>kunyomi: ただ, まさ
+book, origin, real, main;<div>本<br><br>onyomi: ほん<br><br>kunyomi: もと
+left;<div>左<br><br>onyomi: さ<br><br>kunyomi: ひだり
+four;<div>四<br><br>onyomi: し<br><br>kunyomi: よん, よ
+right;<div>右<br><br>onyomi: ゆう, う<br><br>kunyomi: みぎ
+exit;<div>出<br><br>onyomi: しゅつ<br><br>kunyomi: で, だ
+king;<div>王<br><br>onyomi: おう<br><br>kunyomi:
+dog;<div>犬<br><br>onyomi: けん<br><br>kunyomi: いぬ
+fire;<div>火<br><br>onyomi: か<br><br>kunyomi: ひ, ほ
+water;<div>水<br><br>onyomi: すい<br><br>kunyomi: みず
+tree, wood;<div>木<br><br>onyomi: もく, ぼく<br><br>kunyomi: き, こ
+moon, month;<div>月<br><br>onyomi: げつ, がつ<br><br>kunyomi: つき
+sun, day;<div>日<br><br>onyomi: にち, じつ<br><br>kunyomi: ひ, か, び
+writing, sentence;<div>文<br><br>onyomi: ぶん, もん<br><br>kunyomi:
+hand;<div>手<br><br>onyomi: しゅ, ず<br><br>kunyomi: て
+heaven;<div>天<br><br>onyomi: てん<br><br>kunyomi: あま
+yen, round, circle;<div>円<br><br>onyomi: えん<br><br>kunyomi: まる
+six;<div>六<br><br>onyomi: ろく<br><br>kunyomi: む
+five;<div>五<br><br>onyomi: ご<br><br>kunyomi: いつ
+middle, in, inside, center;<div>中<br><br>onyomi: ちゅう<br><br>kunyomi: なか
+genius;<div>才<br><br>onyomi: さい<br><br>kunyomi:
+circle, circular, round;<div>丸<br><br>onyomi: がん<br><br>kunyomi: まる
+again;<div>又<br><br>onyomi: <br><br>kunyomi: また
+finish, complete, end;<div>了<br><br>onyomi: りょう<br><br>kunyomi:
+street;<div>丁<br><br>onyomi: ちょう, てい<br><br>kunyomi:
+small, little;<div>小<br><br>onyomi: しょう<br><br>kunyomi: ちい, こ, お
+child, kid;<div>子<br><br>onyomi: し, す<br><br>kunyomi: こ
+evening;<div>夕<br><br>onyomi: せき<br><br>kunyomi: ゆう
+thousand;<div>千<br><br>onyomi: せん<br><br>kunyomi: ち
+dirt, soil, earth, ground;<div>土<br><br>onyomi: ど, と<br><br>kunyomi: つち
+sword, katana;<div>刀<br><br>onyomi: とう<br><br>kunyomi: かたな
+construction, industry;<div>工<br><br>onyomi: こう, く<br><br>kunyomi:
+river;<div>川<br><br>onyomi: せん<br><br>kunyomi: かわ
+mountain;<div>山<br><br>onyomi: さん<br><br>kunyomi: やま
+woman;<div>女<br><br>onyomi: じょ<br><br>kunyomi: おんな, め
+big, large;<div>大<br><br>onyomi: たい, だい<br><br>kunyomi: おお
+mouth;<div>口<br><br>onyomi: こう, く<br><br>kunyomi: くち
+below, down, under, beneath;<div>下<br><br>onyomi: か, げ<br><br>kunyomi: した, さ, くだ, お
+above, up, over;<div>上<br><br>onyomi: じょう<br><br>kunyomi: うえ, あ, のぼ, うわ, かみ
+three;<div>三<br><br>onyomi: さん<br><br>kunyomi: み
+ten;<div>十<br><br>onyomi: じゅう<br><br>kunyomi: とお
+power, strength;<div>力<br><br>onyomi: りょく, りき<br><br>kunyomi: ちから
+eight;<div>八<br><br>onyomi: はち<br><br>kunyomi: や, よう
+enter;<div>入<br><br>onyomi: にゅう<br><br>kunyomi: はい, い
+person;<div>人<br><br>onyomi: にん, じん<br><br>kunyomi: ひと, と
+seven;<div>七<br><br>onyomi: しち<br><br>kunyomi: なな, なの
+nine;<div>九<br><br>onyomi: く, きゅう<br><br>kunyomi: ここの
+two;<div>二<br><br>onyomi: に<br><br>kunyomi: ふた
+one;<div>一<br><br>onyomi: いち, いつ<br><br>kunyomi: ひと
+like;<div>好<br><br>onyomi: こう<br><br>kunyomi: す, この
+together;<div>共<br><br>onyomi: きょう<br><br>kunyomi: とも
+transmit, tell;<div>伝<br><br>onyomi: でん<br><br>kunyomi: つた, つて
+relationship;<div>仲<br><br>onyomi: ちゅう<br><br>kunyomi: なか
+conflict;<div>争<br><br>onyomi: そう<br><br>kunyomi: あらそ
+most;<div>最<br><br>onyomi: さい<br><br>kunyomi: もっと
+sick, sickness, ill, illness;<div>病<br><br>onyomi: びょう<br><br>kunyomi: や, やまい
+face;<div>顔<br><br>onyomi: がん<br><br>kunyomi: かお
+head;<div>頭<br><br>onyomi: ず, とう<br><br>kunyomi: あたま
+parent;<div>親<br><br>onyomi: しん<br><br>kunyomi: おや, した
+investigate, tone;<div>調<br><br>onyomi: ちょう<br><br>kunyomi: しら
+side, horizontal;<div>横<br><br>onyomi: おう<br><br>kunyomi: よこ
+line;<div>線<br><br>onyomi: せん<br><br>kunyomi:
+chirp;<div>鳴<br><br>onyomi: めい<br><br>kunyomi: な
+read;<div>読<br><br>onyomi: とう, どく<br><br>kunyomi: よ
+language;<div>語<br><br>onyomi: ご<br><br>kunyomi: かた
+hear;<div>聞<br><br>onyomi: ぶん, もん<br><br>kunyomi: き
+year;<div>年<br><br>onyomi: ねん<br><br>kunyomi: とし
+letter, character, symbol;<div>字<br><br>onyomi: じ<br><br>kunyomi:
+name, famous;<div>名<br><br>onyomi: めい, みょう<br><br>kunyomi: な
+previous, ahead, past, former;<div>先<br><br>onyomi: せん<br><br>kunyomi: さき, まず
+rest;<div>休<br><br>onyomi: きゅう<br><br>kunyomi: やす
+thanks;<div>礼<br><br>onyomi: れい<br><br>kunyomi:
+plate, dish;<div>皿<br><br>onyomi: <br><br>kunyomi: さら
+skin;<div>皮<br><br>onyomi: ひ<br><br>kunyomi: かわ
+say humbly, say, humbly say;<div>申<br><br>onyomi: しん<br><br>kunyomi: もう
+ice;<div>氷<br><br>onyomi: ひょう<br><br>kunyomi: こおり
+hit;<div>打<br><br>onyomi: だ<br><br>kunyomi: う, ぶ
+flat, peace;<div>平<br><br>onyomi: へい, ひょう, びょう<br><br>kunyomi: たいら, ひら
+center, centre;<div>央<br><br>onyomi: おう<br><br>kunyomi:
+number;<div>号<br><br>onyomi: ごう<br><br>kunyomi:
+past;<div>去<br><br>onyomi: きょ, こ<br><br>kunyomi: さ
+copy;<div>写<br><br>onyomi: しゃ<br><br>kunyomi: うつ
+substitute, replace, period, age;<div>代<br><br>onyomi: だい<br><br>kunyomi: か, かわ, しろ
+other;<div>他<br><br>onyomi: た<br><br>kunyomi: ほか
+master, main;<div>主<br><br>onyomi: しゅ<br><br>kunyomi: おも, ぬし
+world, generation;<div>世<br><br>onyomi: せ, せい<br><br>kunyomi: よ
+arrow;<div>矢<br><br>onyomi: し<br><br>kunyomi: や
